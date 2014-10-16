@@ -1,0 +1,14 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "initial setup for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Lazarony",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  }
+}
